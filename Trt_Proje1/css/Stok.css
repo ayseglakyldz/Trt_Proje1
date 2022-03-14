@@ -1,0 +1,84 @@
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+}
+#wrapper { 
+ margin: 0 auto;
+ width: 922px;
+}
+#header {
+ color: #333;
+ width: 900px;
+ float: left;
+ padding: 10px;
+ border: 1px solid #ccc;
+ height: 100px;
+ margin: 10px 0px 5px 0px;
+ background:#F6F0E0;
+}
+#banner {
+    width:900px;
+    height:100px;
+    margin:0px;
+}
+#navigation {
+ float: left;
+ width: 900px;
+ color: #333;
+ padding: 10px;
+ border: 1px solid #ccc;
+ margin: 0px 0px 5px 0px;
+ background-color:#F3F2ED;
+}
+#KullaniciBtn, #FirmaBtn,#FaturaBtn, #CikisBtn,#UrunBtn, #AnaBtn {
+    border: none;
+    background-color:#d4f6df;
+    color: black;
+    border-radius: 2px;
+    height: 35px;
+    width: 100px;
+    padding: 10px;
+    margin-left: 5px;
+}
+#StokBtn {
+     border:none;
+    background-color: #3a7a3d;
+    color:white;
+    border-radius: 2px;
+    height:35px;
+    width:100px;
+    padding:10px;
+    margin-left:5px;
+}
+#leftcolumn { 
+ color: #333;
+ border: 1px solid #ccc;
+ background:#F6F0E0;
+ margin: 0px 5px 5px 0px;
+ padding: 10px;
+ height: 350px;
+ width: 195px;
+ float: left;
+}
+#rightcolumn { 
+ float: right;
+ color: #333;
+ border: 1px solid #ccc;
+ background:#CCC8B3;
+ margin: 0px 0px 5px 0px;
+ padding: 10px;
+ height: 350px;
+ width: 678px;
+ display: inline;
+}
+#footer { 
+ width: 900px;
+ clear: both;
+ color: #333;
+ border: 1px solid #ccc;
+ background-color:#F3F2ED;
+ margin: 0px 0px 10px 0px;
+ padding: 10px;
+}

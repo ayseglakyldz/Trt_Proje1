@@ -1,0 +1,75 @@
+﻿
+html {
+    background: no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#Ad_TextBox,#Soyad_TextBox,#Kad_TextBox,#Onay_TextBox,#Sifre_TextBox {
+    border-radius:5px ;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+#NewUser {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#Anacerceve {
+    box-shadow: 15px 15px 15px #000;
+    border-radius: 10px;
+    background-color: #0094ff;
+    padding-bottom: 30px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table {
+    text-align: right;
+    margin-left: 35px;
+}
+
+#Kaydet_Btn {
+    border: none;
+    background-color: #FFFF66;
+    color: blue;
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px #000;
+    width: 100px;
+    height: 35px;
+}
+
+#BtnSatir {
+    width: 350px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#Kaydet_Btn:hover {
+    background-color: red;
+    color: yellow;
+}
+
+#Kaydet_Btn:active {
+    background-color: purple;
+    color: white;
+}
