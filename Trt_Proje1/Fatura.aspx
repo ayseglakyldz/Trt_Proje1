@@ -8,6 +8,7 @@
     <link href="css/Fatura.css" rel="stylesheet" />
 </head>
 <body>
+    <!-- Test yazısı --> 
     <form id="form1" runat="server">
         <!-- Begin Wrapper -->
         <div id="wrapper">
